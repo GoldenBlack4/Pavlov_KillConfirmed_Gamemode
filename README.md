@@ -3,7 +3,7 @@
 
 ## Installation
 1. Drag and drop the **Content** folder inside your Unreal Engine 4 project. 
-Then open your project, and move the **KILLCONFIRMED** folder inside your UGC.
+Then open your project, and move the **KILLCONFIRMED** folder inside your UGC. Do not move the Gameplay folder!
 2. Remove any Pavlov Gamelogic in your level. Then put the GL_KillConfirmed gamelogic in your level.
 3. Link the definition to it.
 4. Place the BP_KC_PlayerProxy in your level.
